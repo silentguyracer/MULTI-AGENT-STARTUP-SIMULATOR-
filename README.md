@@ -1,4 +1,3 @@
-# 🌌 Antigravity AI Startup OS
 ### *A Multi-Agent Autonomous Startup Simulator*
 
 AI Startup OS is a futuristic multi-agent sandbox where autonomous agents (CEO, CTO, PM, Designer, Marketer, Investor) collaborate using LangGraph & WebSockets. They brainstorm ideas, manage Kanban boards, compile pitch decks, and write code inside a premium, voice-controlled dashboard.
@@ -6,8 +5,6 @@ AI Startup OS is a futuristic multi-agent sandbox where autonomous agents (CEO, 
 ---
 
 ## 📸 Console Interface Preview
-
-![Antigravity AI Startup OS](./dashboard_mockup.png)
 
 ---
 
